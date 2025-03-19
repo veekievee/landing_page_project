@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div>
       <Hero />
+       <p>Fine girl</p>
        <p>hello world</p>
       <TableSection />
      </div>
