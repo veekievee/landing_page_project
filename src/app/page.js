@@ -5,7 +5,8 @@ export default function Home() {
   return (
     <div>
       <Hero />
+       <p>hello world</p>
       <TableSection />
-    </div>
+     </div>
   );
 }
